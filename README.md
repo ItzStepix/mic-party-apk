@@ -1,8 +1,9 @@
 # 🎤 Mic Party – download
 
-A party game for phones on the same Wi-Fi. A sound plays – memes, animals, cartoon effects – and
-everyone takes turns copying it into their phone's microphone. The game scores how close you got
-(rhythm, length, melody, tone). Most points wins.
+A party game for phones on the same Wi-Fi. Build your own little critter, then a boombox plays a
+sound – memes, animals, cartoon effects – and everyone takes turns stepping into the spotlight and
+copying it into their phone's microphone. Your critter's mouth moves with your voice, live on
+everyone's phone. The game scores how close you got (rhythm, length, melody, tone). Most points wins.
 
 ![Screenshots](docs/screenshots.png)
 
@@ -16,7 +17,7 @@ everyone takes turns copying it into their phone's microphone. The game scores h
 
 ## How to play
 
-1. Everyone connects to **the same Wi-Fi**.
+1. Everyone connects to **the same Wi-Fi** and dresses up their critter (body, eyes, hat, color – or 🎲).
 2. One player taps **Host a game**, the others tap **Join a game** – the game shows up automatically.
    If it doesn't, type the IP address shown in the host's lobby.
 3. The host picks the number of rounds and the sound categories, then taps **Start game**.
